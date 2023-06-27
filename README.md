@@ -1,1 +1,3 @@
 # stock
+
+some api pratice
